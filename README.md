@@ -21,5 +21,7 @@ __________.__                 __            ++/   /++`           -++.   +++     
 |    |__(  <_> )  | |  |  /\___ \|    |___ / __ \| \_\ \\___ \ 
 |_______ \____/|__| |____//____  >_______ (____  /___  /____  >
         \/                     \/        \/    \/    \/     \/ 
-                              The mission of Black Lotus Labs is to leverage our network visibility to both help protect customers and keep the internet clean.
+The mission of Black Lotus Labs is to leverage our network visibility to both help protect customers and keep the internet clean.
+
+Notice: This information is provided in good faith to raise awareness.  CenturyLink disclaims any liability for inaccurate or incomplete information.  You, and not CenturyLink, are responsible for any action or inaction undertaken as a result of this information and identifying any particular consequences or obligations that may be applicable based on this information.  
 ```
